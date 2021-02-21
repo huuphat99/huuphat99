@@ -42,13 +42,15 @@
   </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## &#x1f4c8; My GitHub Stats
 
-<p align="center">
-<a href="mailto:hphat1999@gmail.com"><img src="https://img.shields.io/badge/-hphat1999-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/huuphatt._.t/"><img src="https://img.shields.io/badge/-@huuphatt._.t-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/hphat.99"><img src="https://img.shields.io/badge/-@hphat.99-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuphat99&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huuphat99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
 
 -----
 
