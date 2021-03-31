@@ -10,7 +10,7 @@
 ✍️ &nbsp;During my free time, I often learn Japanese or play games or play football.\
 💬 \
 ✉️ &nbsp;If you have any question, You can shoot me an email at hphat1999@gmail.com or phatdhhe130568@fpt.edu.vn I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://www.topcv.vn/xem-cv/507e979123a85d107b1a06062474a75b) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume]<!--(https://www.topcv.vn/xem-cv/507e979123a85d107b1a06062474a75b)--> for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
