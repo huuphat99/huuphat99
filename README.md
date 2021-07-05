@@ -1,14 +1,12 @@
 <h2>👋 &nbsp;Hey there! I'm Phat</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <!-- ctrl + shift + M to open preview in atom -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Engineering at the FPT University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;During my free time, I often learn Japanese or play games or play football.\
-💬 \
+✍️ &nbsp;During my free time, I often learn Japanese or play football. Besides, I already have in JLPT Certificate N3 and IELTS 7.0 \
 ✉️ &nbsp;If you have any question, You can shoot me an email at hphat1999@gmail.com or phatdhhe130568@fpt.edu.vn I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume]<!--(https://www.topcv.vn/xem-cv/507e979123a85d107b1a06062474a75b)--> for more details about me. I'm open to feedback and suggestions!
 
